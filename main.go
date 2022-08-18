@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(9>>1 + 1)
+	fmt.Println(1 & 4)
 }
